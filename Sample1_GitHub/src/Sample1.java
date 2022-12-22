@@ -12,6 +12,7 @@ public class Sample1 {
 		System.out.println("Havin some files edited");
 		boolean op=output(10,22);
 		System.out.println(op);
+		System.out.println("oyutput");
 	}
 
 }
